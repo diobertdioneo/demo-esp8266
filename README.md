@@ -16,7 +16,7 @@ ESP8266 related sample codes
 ### Circuit diagram
 ![alt text](https://github.com/diobertdioneo/demo-esp8266/blob/master/common/images/ESP8266-Tone-Starwars-Switch-dio-design.png "Starwars Imperial March - Switch Triggered")
 
-## [ESP8266-DHT-12C-LCD-dio](https://github.com/diobertdioneo/demo-esp8266/tree/master/ESP8266-DHT-12C-LCD-dio)
+## [ESP8266-DHT-I2C-LCD-dio](https://github.com/diobertdioneo/demo-esp8266/tree/master/ESP8266-DHT-I2C-LCD-dio)
   This is a demo on how to interface with DHT11 Temperature and Humidity Module sensor and display the output to an LCD1602 Module via I2C.
 ### How it works
   The device will read the temperature and humidity from the DHT11 at an interval of 2 seconds or 2000 milliseconds, clear the display and then display the temperature in degree celcius and humidity.
