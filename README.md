@@ -15,3 +15,15 @@ ESP8266 related sample codes
 7. jumper wires
 ### Circuit diagram
 ![alt text](https://github.com/diobertdioneo/demo-esp8266/blob/master/common/images/ESP8266-Tone-Starwars-Switch-dio-design.png "Starwars Imperial March - Switch Triggered")
+
+## [ESP8266-DHT-12C-LCD-dio](https://github.com/diobertdioneo/demo-esp8266/tree/master/ESP8266-DHT-12C-LCD-dio)
+  This is a demo on how to interface with DHT11 Temperature and Humidity Module sensor and display the output to an LCD1602 Module via I2C.
+### How it works
+  The device will read the temperature and humidity from the DHT11 at an interval of 2 seconds or 2000 milliseconds, clear the display and then display the temperature in degree celcius and humidity.
+### Bill of Materials
+1. 1x ESP8266 NodeMCU LUA CP2102 ESP-12E
+2. DHT11 Temperature and Humidity Module sensor
+3. LCD1602 Display Module with I2C
+4. jumper wires
+### Circuit diagram
+Have Fun!
