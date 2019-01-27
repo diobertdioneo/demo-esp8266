@@ -26,4 +26,5 @@ ESP8266 related sample codes
 3. LCD1602 Display Module with I2C
 4. jumper wires
 ### Circuit diagram
+![alt text](https://github.com/diobertdioneo/demo-esp8266/blob/master/common/images/ESP8266-DHT-I2C-LCD-dio.png "Temperature and Humidity Displayed on LCD1602")
 Have Fun!
